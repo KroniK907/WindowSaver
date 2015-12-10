@@ -4,7 +4,7 @@ v0.1
 Created by [Daniel Kranich](https://github.com/KroniK907)  
 Based on [DockWin v0.3](https://autohotkey.com/board/topic/112113-dockwin-storerecall-window-positions/) by Paul Troiano  
 
-PgP Key-ID: 9313709B  
+PGP Key-ID: 9313709B  
 Daniel Kranich (KroniK907)
 
 ###Description
