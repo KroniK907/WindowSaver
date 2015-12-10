@@ -22,28 +22,28 @@ This is a script that can save the location and size of all of your windows and 
 I use this script when I need to do a windows update or need to restart my computer for any reason. I can simply save my layout before shutdown and then when I have rebooted, I can re open all the programs I had running and hit a hotkey and have it all back the way it was before. I also have a laptop which I may or may not have connected to a secondary monitor. I can save a layout, with and without my second monitor and every time I switch I can hit a hotkey and have all my windows arranged the way I like. 
 
 ###Installation
-*Simple Install*
+*Simple Install*  
 Download WindowSaver.exe
 The exe must be run with one of the two following paramaters
 - snap
--   Takes a snapshot of your current layout and saves the details to WinPos.txt
+  - Takes a snapshot of your current layout and saves the details to WinPos.txt
 - restore
--   Figures out which saved layout it should restore
--   Restores all windows to their appropriate places
+  - Figures out which saved layout it should restore
+  - Restores all windows to their appropriate places
 
 Example:  
 "C:\path\to\exe\WindowSaver.exe snap"  
 "C:\path\to\exe\WindowSaver.exe restore"
 
-*Install With Source*
+*Install With Source*  
 Downlad the source .ahk files. 
 Use the same method as above but by calling your local AutoHotkey.exe
 
-Example:
+Example:  
 "C:\path\to\AutoHotkey.exe C:\path\to\WindowSaver.ahk snap"
 "C:\path\to\AutoHotkey.exe C:\path\to\WindowSaver.ahk restore"
 
-*Set Up Hotkey*
+*Set Up Hotkey*  
 You can set up a hotkey using the following
 
     key:: Run "C:\path\to\WindowSaver.exe" snap
