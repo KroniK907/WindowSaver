@@ -1,8 +1,8 @@
 # WindowSaver
-An AutoHotkey Script
-v0.1
-Created by [Daniel Kranich](https://github.com/KroniK907)
-Based on [DockWin v0.3](https://autohotkey.com/board/topic/112113-dockwin-storerecall-window-positions/) by Paul Troiano
+An AutoHotkey Script  
+v0.1  
+Created by [Daniel Kranich](https://github.com/KroniK907)  
+Based on [DockWin v0.3](https://autohotkey.com/board/topic/112113-dockwin-storerecall-window-positions/) by Paul Troiano  
 
 ###Description
 This is a script that can save the location and size of all of your windows and then restore those windows to their correct positions at a later time.
@@ -23,8 +23,9 @@ I use this script when I need to do a windows update or need to restart my compu
 
 ###Installation
 *Simple Install*  
-Download WindowSaver.exe
-The exe must be run with one of the two following paramaters
+Download WindowSaver.exe  
+The exe must be run with one of the two following paramaters  
+
 - snap
   - Takes a snapshot of your current layout and saves the details to WinPos.txt
 - restore
@@ -32,16 +33,16 @@ The exe must be run with one of the two following paramaters
   - Restores all windows to their appropriate places
 
 Example:  
-"C:\path\to\exe\WindowSaver.exe snap"  
+"C:\path\to\exe\WindowSaver.exe snap"   
 "C:\path\to\exe\WindowSaver.exe restore"
 
 *Install With Source*  
-Downlad the source .ahk files. 
-Use the same method as above but by calling your local AutoHotkey.exe
+Downlad the source .ahk files.  
+Use the same method as above but by calling your local AutoHotkey.exe  
 
 Example:  
-"C:\path\to\AutoHotkey.exe C:\path\to\WindowSaver.ahk snap"
-"C:\path\to\AutoHotkey.exe C:\path\to\WindowSaver.ahk restore"
+"C:\path\to\AutoHotkey.exe C:\path\to\WindowSaver.ahk snap"  
+"C:\path\to\AutoHotkey.exe C:\path\to\WindowSaver.ahk restore"  
 
 *Set Up Hotkey*  
 You can set up a hotkey using the following
