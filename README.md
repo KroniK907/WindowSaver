@@ -4,6 +4,11 @@ v0.1
 Created by [Daniel Kranich](https://github.com/KroniK907)  
 Based on [DockWin v0.3](https://autohotkey.com/board/topic/112113-dockwin-storerecall-window-positions/) by Paul Troiano  
 
+PgP Certificate Info:
+Daniel Kranich (KroniK907)
+Daniel@nusalaska.com
+Fingerprint: A6B02662165767349DE1EB059A4AD6319313709B
+
 ###Description
 This is a script that can save the location and size of all of your windows and then restore those windows to their correct positions at a later time.
 
