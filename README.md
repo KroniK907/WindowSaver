@@ -55,3 +55,9 @@ or
     key:: Run "C:\path\to\AutoHotkey.exe" "C:\path\to\WindowSaver.ahk" snap
     key:: Run "C:\path\to\AutoHotkey.exe" "C:\path\to\WindowSaver.ahk" restore
 
+###Signed EXE
+I have signed the WindowSaver.exe  
+
+Daniel Kranich (KroniK907)  
+Daniel@nusalaska.com  
+Fingerprint: A6B02662165767349DE1EB059A4AD6319313709B
