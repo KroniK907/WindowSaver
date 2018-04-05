@@ -1,3 +1,10 @@
+# This project has been abandoned 
+Windows 10 creator update now saves your window locations and status before a restart or shutdown and brings everything back automatically. Thus the use for this script is basically gone. 
+
+If you still have some use for this code, feel free to fork it, but I will not be providing any support or further development for this project. 
+
+Old install instructions:
+
 # WindowSaver
 An AutoHotkey Script  
 v0.1  
