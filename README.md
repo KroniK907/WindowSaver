@@ -14,10 +14,10 @@ Based on [DockWin v0.3](https://autohotkey.com/board/topic/112113-dockwin-storer
 PGP Key-ID: 9313709B  
 Daniel Kranich (KroniK907)
 
-###Description
+### Description
 This is a script that can save the location and size of all of your windows and then restore those windows to their correct positions at a later time.
 
-###Features
+### Features
 - Specifically designed to work with Windows10 Virtual Desktops
   - Assigns a desktop to each window
   - Restores to the appropriate desktop
@@ -28,10 +28,10 @@ This is a script that can save the location and size of all of your windows and 
 - Saves weather a window is maximized or minimized
 - Call from any ahk script
 
-###Uses
+### Uses
 I use this script when I need to do a windows update or need to restart my computer for any reason. I can simply save my layout before shutdown and then when I have rebooted, I can re open all the programs I had running and hit a hotkey and have it all back the way it was before. I also have a laptop which I may or may not have connected to a secondary monitor. I can save a layout, with and without my second monitor and every time I switch I can hit a hotkey and have all my windows arranged the way I like. 
 
-###Installation
+### Installation
 **Simple Install**  
 Download WindowSaver.exe  
 The exe must be run with one of the two following paramaters  
